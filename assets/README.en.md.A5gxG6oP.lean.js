@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a3 as i}from"./chunks/framework.b23AWjfV.js";const m=JSON.parse('{"title":"ZiJieYuan Blog","description":"","frontmatter":{},"headers":[],"relativePath":"README.en.md","filePath":"README.en.md"}'),n={name:"README.en.md"},s=i("",12),r=[s];function o(l,h,d,p,c,u){return t(),a("div",null,r)}const b=e(n,[["render",o]]);export{m as __pageData,b as default};
